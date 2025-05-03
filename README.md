@@ -92,11 +92,11 @@ docker run -e AIPROXY_TOKEN=your_token_here -p 8000:8000 llm-automation-bot
    ```
 
 ## Docker Hub
-The Docker image is available at: [https://hub.docker.com/repository/docker/manaviitm/llm-automation-bot](https://hub.docker.com/repository/docker/manaviitm/llm-automation-bot)
+The Docker image is available at: [https://hub.docker.com/r/flibon/llm-automation-bot](https://hub.docker.com/r/flibon/llm-automation-bot)
 
 ### Pull the Docker Image
 ```bash
-docker pull manaviitm/llm-automation-bot:latest
+docker pull flibon/llm-automation-bot
 ```
 
 ## License
